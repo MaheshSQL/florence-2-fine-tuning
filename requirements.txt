@@ -1,0 +1,6 @@
+matplotlib
+einops
+timm
+flash_attn
+scikit-learn
+peft
